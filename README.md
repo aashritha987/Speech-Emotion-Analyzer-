@@ -1,8 +1,8 @@
 # Speech-Emotion-Analyzer-
 Featured Enriched Speech Emotion Recognition using Mel Frequency Cepstral Coefficients
-This project proposes a robust deep learning framework for SER, leveraging CNNs and Mel Frequency Cepstral Coefficients (MFCCs) as input features. The model is evaluated using well-known datasets—CREMA-D, RAVDESS, SAVEE, and TESS—to ensure diversity in emotional expressions and speaker characteristics.\
+This project proposes a robust deep learning framework for SER, leveraging CNNs and Mel Frequency Cepstral Coefficients (MFCCs) as input features. The model is evaluated using well-known datasets—CREMA-D, RAVDESS, SAVEE, and TESS—to ensure diversity in emotional expressions and speaker characteristics.
 
-Key Contributions:\
+Key Contributions:
 
 1. Customized CNN Architecture: The study introduces a tailored CNN design that effectively captures local temporal and spectral features from MFCCs, enhancing emotion detection accuracy.\
 2. Enhanced Feature Extraction: The use of 13-dimensional MFCCs approximates human auditory perception, offering a compact and meaningful representation of emotional speech.\
